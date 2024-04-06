@@ -19,4 +19,13 @@ button {
   background: #144098;
   color: #fff; }
 
+.container {
+  text-align: center; }
+
+.paragraph {
+  margin-top: 5px; }
+
+.down_section {
+  margin-top: 50px; }
+
 /*# sourceMappingURL=style.css.map */
